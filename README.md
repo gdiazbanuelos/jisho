@@ -1,3 +1,3 @@
 # jisho-api
 
-[api.gus-diaz.com/jisho](https://api.gus-diaz.com/jisho/)
+[jisho.gus-diaz.com](https://jisho.gus-diaz.com)
