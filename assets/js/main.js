@@ -2,6 +2,7 @@
 function getInputValue(){
 	var inputVal = document.getElementById("targetWord").value;
 	inputVal = inputVal.trim();
+	inputVal = inputVal.toLowerCase();
 	var target = 'https://api.gus-diaz.com/jisho/' + inputVal;
 	window.open(target);
 	document.getElementById("targetWord").value = '';
